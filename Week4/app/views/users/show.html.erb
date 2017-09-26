@@ -12,7 +12,7 @@
 
 <p>
   <strong>Microposts:</strong>
-  <%= @user.microposts.each do |micropost| %>
+  <% @user.microposts.each do |micropost| %>
     <p><%= micropost.content %></p>
   <% end %>
 </p>
