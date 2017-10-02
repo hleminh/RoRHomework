@@ -2,4 +2,4 @@
 require File.expand_path('../application', __FILE__)
 
 # Initialize the Rails application.
-Homework1::Application.initialize!
+Chapter2::Application.initialize!
