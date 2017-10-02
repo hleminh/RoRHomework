@@ -1,4 +1,4 @@
-Homework1::Application.routes.draw do
+Chapter2::Application.routes.draw do
   resources :microposts
 
   resources :users

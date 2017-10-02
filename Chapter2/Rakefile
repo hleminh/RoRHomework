@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Homework1::Application.load_tasks
+Chapter2::Application.load_tasks

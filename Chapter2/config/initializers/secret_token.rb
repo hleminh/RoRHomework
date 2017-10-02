@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Homework1::Application.config.secret_key_base = 'dfd96f5c3cf9ef463ad3aceef30a037b613bb930810a6ca30215f59ccb5c17fac5a533deca2c457687769e332656e0adcc6c99eb0b22fd0e2a5d4603309a9b80'
+Chapter2::Application.config.secret_key_base = 'dfd96f5c3cf9ef463ad3aceef30a037b613bb930810a6ca30215f59ccb5c17fac5a533deca2c457687769e332656e0adcc6c99eb0b22fd0e2a5d4603309a9b80'
